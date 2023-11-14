@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mdPreviewer {
+  height: 97vh;
+  width: 97vw;
+  border-radius: 5%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: black;
+  color: gray;
+  text-shadow: -1px 0 blue, 0 1px blue, 1px 0 blue, 0 -1px blue;
+  font-size: 30px;
+}
+
+h2{
+  margin-top: -5%;
+}
+
+#topDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 90%;
+}
+
+#editor {
+  height: 40vh;
+  width: 70vw;
+  resize: none;
+  border: 2px solid blue;
+  background-color: gray;
+  border-radius: 5%;
+  padding: 10px;
+}
+
+#editor::placeholder {
+  color: black;
+  text-align: center;
+}
+
+
+#preview {
+  display: flex;
+  flex-direction: column;
+  text-align: initial;
+  height: fit-content;
+  width: 90%;
+  background-color: gray;
+  border: 2px solid blue;
+  color: black;
+  border-radius: 5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 80%;
+}
+
+#footer {
+  width: 90vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  color: black;
+  text-shadow: -1px 0 blue, 0 1px blue, 1px 0 blue, 0 -1px blue;
+  text-align: right;
+  font-size: 10px;
+}
