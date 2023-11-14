@@ -1,0 +1,54 @@
+#additionDiv {
+    border: 4px double darkgoldenrod;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 175%;
+}
+
+#additionDropdown {
+    height: fit-content;
+    min-width: 22%;
+    max-width: fit-content;
+    text-align: center;
+    font-size: 120%;
+    background-color: black;
+    color: darkgoldenrod;
+    border: 4px double darkgoldenrod;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 2vh;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+
+#additionText {
+    width: 40%;
+    min-height: 50px;
+    max-height: fit-content;
+    font-size: 80%;
+    background-color: black;
+    color: darkgoldenrod;
+    border: 4px double darkgoldenrod;
+    border-radius: 15px;
+    text-align: center;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+#additionText::placeholder {
+    opacity: .6;
+}
+
+#submitBtn {
+    margin-top: 4vh;
+    background-color: black;
+    color: darkgoldenrod;
+    border-radius: 15px;
+    border: 4px double darkgoldenrod;
+    height: fit-content;
+    width: 150px;
+    font-weight: bolder;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-size: 150%;
+}

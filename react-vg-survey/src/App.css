@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+    background-color: black;
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.btn {
+    background-color: black;
+    color: darkgoldenrod;
+    border-radius: 15px;
+    border: 4px double darkgoldenrod;
+    height: 50px;
+    min-width: 150px;
+    font-weight: bolder;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-size: 150%;
+    margin-left: 5px;
+}

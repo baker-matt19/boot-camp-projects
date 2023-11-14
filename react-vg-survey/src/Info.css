@@ -1,0 +1,31 @@
+.input {
+    background-color: black;
+    border-radius: 15px;
+    border: 4px double darkgoldenrod;
+    margin-top: 5vh;
+    margin-left: 10px;
+    color: darkgoldenrod;
+    height: 40px;
+    font-size: 120%;
+    font-weight: bolder;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.input::placeholder {
+    color: darkgoldenrod;
+    opacity: .6;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+#infoDiv {
+    border: 4px double darkgoldenrod;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-size: 200%;
+}

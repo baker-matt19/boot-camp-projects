@@ -1,0 +1,1 @@
+mklink /J node_modules %userprofile%\Documents\class_docs\nodes\client\current
