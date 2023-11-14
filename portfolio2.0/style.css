@@ -1,0 +1,268 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+body {
+  height: fit-content;
+  width: fit-content;
+}
+
+#nav-bar {
+  color: white;
+  background-color: rgb(46, 50, 55, 0.7);
+  width: 12%;
+  height: 100%;
+  position: fixed;
+  font-size: 100%;
+  text-align: center;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: inherit;
+}
+
+#nav-img {
+  width: 100%;
+  vertical-align: middle;
+  border-radius: 50%;
+}
+
+#nav-bar-item {
+  cursor: pointer;
+  width: 100%;
+  display: block;
+  height: 12%;
+  text-decoration: none;
+  padding-top: 4em;
+}
+
+#nav-bar-text {
+  color: white;
+}
+
+#nav-bar-item:hover {
+  background-color: black !important;
+}
+
+#nav-bar-text:hover {
+  background-color: black !important;
+}
+
+/* creating a parallax class to apply to all the sections of my html. this way the content seems to move independently from the background image. */
+.parallax {
+  object-fit: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  opacity: 0.9;
+}
+
+#parallaxOne {
+  background-image: url(./assets/imgs/IMGP3292a.jpg);
+}
+
+.break {
+  background-image: linear-gradient(
+    to right,
+    black,
+    black,
+    black,
+    black,
+    gray,
+    gray,
+    white
+  );
+  height: 10px;
+  width: 98vw;
+}
+
+#parallaxTwo {
+  background-image: url(./assets/imgs/IMGP1149s.jpg);
+}
+
+#parallaxThree {
+  background-image: url(./assets/imgs/IMGP3738c.jpg);
+}
+
+#parallaxFour {
+  background-image: url(./assets/imgs/IMGP4083a.jpg);
+}
+
+#welcomeSection {
+  color: white;
+  margin-left: 13%;
+  text-align: center;
+  min-height: 100vh;
+}
+
+#welcomeContent {
+  padding-top: 15%;
+  /* margin-bottom: 10%; */
+}
+
+#welcome-img {
+  border-radius: 50%;
+  width: 40%;
+}
+
+#about {
+  color: white;
+  margin-left: 13%;
+  padding-left: 10px;
+  padding-bottom: 2em;
+  height: fit-content;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+#aboutDescription {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* creating bars with a gray fill to represent my percentage of proficiency in each area */
+.skills {
+  letter-spacing: 3px;
+  opacity: 50%;
+}
+
+.skills-white {
+  background-color: white !important;
+  color: black !important;
+  margin-top: 10px;
+}
+
+.skills-gray-html {
+  height: 30px;
+  width: 98%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-css {
+  height: 30px;
+  width: 90%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-js {
+  height: 30px;
+  width: 95%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-jq {
+  height: 30px;
+  width: 75%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-bs {
+  height: 30px;
+  width: 65%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-s {
+  height: 30px;
+  width: 33%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-react {
+  height: 30px;
+  width: 78%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-redux {
+  height: 30px;
+  width: 40%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-no {
+  height: 30px;
+  width: 10%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-mon {
+  height: 30px;
+  width: 2%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-ex {
+  height: 30px;
+  width: 1%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+.skills-gray-d3 {
+  height: 30px;
+  width: 80%;
+  color: white !important;
+  background-color: darkgray !important;
+}
+
+#projects {
+  color: white;
+  margin-left: 13%;
+  padding-left: 10px;
+  padding-bottom: 20%;
+  padding-top: 20%;
+}
+
+.project-list {
+  list-style: none;
+}
+
+.proj-link {
+  padding-top: 10px;
+}
+
+#projectDescription {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a {
+  color: darkgray;
+}
+
+.foot-link {
+  margin-right: 8px;
+  color: yellow;
+}
+
+#contact {
+  color: white;
+  margin-left: 13%;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  padding-left: 10px;
+  text-align: right;
+}
+
+/* media query to adjust the font-size on my nav-bar items when the width of the screen is below 641px */
+@media screen and (max-width: 640px) {
+  #nav-bar {
+    font-size: 50%;
+  }
+}
