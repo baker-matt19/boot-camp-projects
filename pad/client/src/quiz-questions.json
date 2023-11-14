@@ -1,0 +1,219 @@
+[
+  {
+    "questionText": "Which element on the periodic table is represented by the symbol 'H'?",
+    "answerOptions": [
+      { "answerText": "Helium", "isCorrect": false },
+      { "answerText": "Hydrogen", "isCorrect": true },
+      { "answerText": "Hafnium", "isCorrect": false },
+      { "answerText": "Holmium", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who wrote the novel 'Pride and Prejudice'?",
+    "answerOptions": [
+      { "answerText": "Emily Brontë", "isCorrect": false },
+      { "answerText": "Charles Dickens", "isCorrect": false },
+      { "answerText": "Jane Austen", "isCorrect": true },
+      { "answerText": "Mark Twain", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which ocean is the largest on Earth?",
+    "answerOptions": [
+      { "answerText": "Atlantic Ocean", "isCorrect": false },
+      { "answerText": "Pacific Ocean", "isCorrect": true },
+      { "answerText": "Indian Ocean", "isCorrect": false },
+      { "answerText": "Southern Ocean", "isCorrect": false }
+    ]
+  },
+
+  {
+    "questionText": "Who is known as the Father of the Computer?",
+    "answerOptions": [
+      { "answerText": "Charles Babbage", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Bill Gates", "isCorrect": false },
+      { "answerText": "Steve Jobs", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the square root of 81?",
+    "answerOptions": [
+      { "answerText": "8", "isCorrect": false },
+      { "answerText": "10", "isCorrect": false },
+      { "answerText": "7", "isCorrect": false },
+      { "answerText": "9", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Who was the first woman to win a Nobel Prize?",
+    "answerOptions": [
+      { "answerText": "Marie Curie", "isCorrect": true },
+      { "answerText": "Rosalind Franklin", "isCorrect": false },
+      { "answerText": "Jane Austen", "isCorrect": false },
+      { "answerText": "Margaret Thatcher", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which mammal is the largest on Earth?",
+    "answerOptions": [
+      { "answerText": "Elephant", "isCorrect": false },
+      { "answerText": "Giraffe", "isCorrect": false },
+      { "answerText": "Blue Whale", "isCorrect": true },
+      { "answerText": "Whale Shark", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of relativity?",
+    "answerOptions": [
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": true },
+      { "answerText": "Galileo Galilei", "isCorrect": false },
+      { "answerText": "Stephen Hawking", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+    "answerOptions": [
+      { "answerText": "Apple", "isCorrect": true },
+      { "answerText": "Microsoft", "isCorrect": false },
+      { "answerText": "Atari", "isCorrect": false },
+      { "answerText": "Commodore", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What does CPU stand for?",
+    "answerOptions": [
+      { "answerText": "Central Processing Unit", "isCorrect": true },
+      { "answerText": "Central Perform Unit", "isCorrect": false },
+      { "answerText": "Central Process Unit", "isCorrect": false },
+      { "answerText": "Central Processor Unit", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the capital of Spain?",
+    "answerOptions": [
+      { "answerText": "Barcelona", "isCorrect": false },
+      { "answerText": "Valencia", "isCorrect": false },
+      { "answerText": "Seville", "isCorrect": false },
+      { "answerText": "Madrid", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Which planet is known for its prominent ring system?",
+    "answerOptions": [
+      { "answerText": "Jupiter", "isCorrect": false },
+      { "answerText": "Saturn", "isCorrect": true },
+      { "answerText": "Mars", "isCorrect": false },
+      { "answerText": "Venus", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who was the 16th President of the United States?",
+    "answerOptions": [
+      { "answerText": "George Washington", "isCorrect": false },
+      { "answerText": "Abraham Lincoln", "isCorrect": true },
+      { "answerText": "Thomas Jefferson", "isCorrect": false },
+      { "answerText": "Andrew Jackson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who composed the music for The Nutcracker?",
+    "answerOptions": [
+      { "answerText": "Wolfgang Amadeus Mozart", "isCorrect": false },
+      { "answerText": "Ludwig van Beethoven", "isCorrect": false },
+      { "answerText": "Johann Sebastian Bach", "isCorrect": false },
+      { "answerText": "Pyotr Ilyich Tchaikovsky", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Which chemical element has the symbol 'O'?",
+    "answerOptions": [
+      { "answerText": "Osmium", "isCorrect": false },
+      { "answerText": "Oganesson", "isCorrect": false },
+      { "answerText": "Oxygenium", "isCorrect": false },
+      { "answerText": "Oxygen", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Who is the author of 'To Kill a Mockingbird'?",
+    "answerOptions": [
+      { "answerText": "Mark Twain", "isCorrect": false },
+      { "answerText": "F. Scott Fitzgerald", "isCorrect": false },
+      { "answerText": "Ernest Hemingway", "isCorrect": false },
+      { "answerText": "Harper Lee", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "K2", "isCorrect": false },
+      { "answerText": "Mount Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Elbrus", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the largest country by land area?",
+    "answerOptions": [
+      { "answerText": "Canada", "isCorrect": false },
+      { "answerText": "Russia", "isCorrect": true },
+      { "answerText": "China", "isCorrect": false },
+      { "answerText": "United States", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which planet is closest to the sun?",
+    "answerOptions": [
+      { "answerText": "Venus", "isCorrect": false },
+      { "answerText": "Mercury", "isCorrect": true },
+      { "answerText": "Mars", "isCorrect": false },
+      { "answerText": "Earth", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who is the creator of the comic strip 'Peanuts'?",
+    "answerOptions": [
+      { "answerText": "Jim Davis", "isCorrect": false },
+      { "answerText": "Gary Larson", "isCorrect": false },
+      { "answerText": "Charles M. Schulz", "isCorrect": true },
+      { "answerText": "Bill Watterson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the smallest continent by land area?",
+    "answerOptions": [
+      { "answerText": "Australia", "isCorrect": true },
+      { "answerText": "Europe", "isCorrect": false },
+      { "answerText": "South America", "isCorrect": false },
+      { "answerText": "Antarctica", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who was the first human to walk on the moon?",
+    "answerOptions": [
+      { "answerText": "Buzz Aldrin", "isCorrect": false },
+      { "answerText": "Yuri Gagarin", "isCorrect": false },
+      { "answerText": "Neil Armstrong", "isCorrect": true },
+      { "answerText": "Michael Collins", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which company was originally known as 'Blue Ribbon Sports'?",
+    "answerOptions": [
+      { "answerText": "Adidas", "isCorrect": false },
+      { "answerText": "Puma", "isCorrect": false },
+      { "answerText": "Nike", "isCorrect": true },
+      { "answerText": "Under Armour", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      { "answerText": "Vincent van Gogh", "isCorrect": false },
+      { "answerText": "Pablo Picasso", "isCorrect": false },
+      { "answerText": "Claude Monet", "isCorrect": false },
+      { "answerText": "Leonardo da Vinci", "isCorrect": true }
+    ]
+  }
+]
